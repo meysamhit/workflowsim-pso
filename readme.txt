@@ -1,4 +1,4 @@
-implementation of pso algorithm in for workflow planning
+implementation of pso algorithm for workflow planning
 
 
 Table of Contents
